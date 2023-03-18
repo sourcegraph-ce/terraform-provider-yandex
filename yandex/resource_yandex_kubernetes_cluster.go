@@ -2,7 +2,7 @@ package yandex
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"sort"
 	"strings"
 	"time"

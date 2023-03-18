@@ -3,7 +3,7 @@ package yandex
 import (
 	"bytes"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"reflect"
 	"regexp"
 	"strings"
