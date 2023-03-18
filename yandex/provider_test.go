@@ -2,7 +2,7 @@ package yandex
 
 import (
 	"context"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"testing"
 
